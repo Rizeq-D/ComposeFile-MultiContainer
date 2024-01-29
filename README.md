@@ -1,3 +1,9 @@
+# This project is based on the work of Bret Fisher (https://github.com/BretFisher).
+
+## Project Modifications
+
+This project has been modified to include my learning process that based on the online course of Bret Fisher which I attended.
+
 # Assignment: Build a Compose File For a Multi-Container Project
 
 > Goal: Create a compose config for a local Drupal CMS website
